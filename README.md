@@ -86,6 +86,7 @@ Add images of your robot here:
 **Course:** Digital Logic Design (DLD) Lab  
 **Project:** Car Following Robot  
 
+https://www.linkedin.com/posts/muhammad-fahad-javed_finalyearproject-dld-engineeringlife-activity-7458566472244658176-PlIw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGMVzugBOl14fgXQwPCgVNBPLvYaU51RMQ8
 
 ## 📄 License
 This project is licensed under the MIT License.
